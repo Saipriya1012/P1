@@ -1,10 +1,9 @@
 # Byte-compiled / optimized Python files
-_pycache_/
+
 *.py[cod]
 
 # Virtual environment
 venv/
-env/
 ENV/
 
 # IDEs
