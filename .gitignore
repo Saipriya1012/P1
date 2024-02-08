@@ -1,6 +1,6 @@
 # Byte-compiled / optimized Python files
 
-*.py[cod]
+
 
 # Virtual environment
 venv/
