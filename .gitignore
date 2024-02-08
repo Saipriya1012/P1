@@ -4,7 +4,7 @@
 
 # Virtual environment
 venv/
-ENV/
+
 
 # IDEs
 .vscode/
@@ -21,7 +21,7 @@ dist/
 build/
 
 # Environment variables file
-.env
+
 
 # Local development settings
 *.sqlite3
