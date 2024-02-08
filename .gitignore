@@ -1,0 +1,44 @@
+# Byte-compiled / optimized Python files
+_pycache_/
+*.py[cod]
+
+# Virtual environment
+venv/
+env/
+ENV/
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*~
+
+# Logs
+*.log
+
+# Dependencies
+*.egg-info/
+dist/
+build/
+
+# Environment variables file
+.env
+
+# Local development settings
+*.sqlite3
+*.db
+*.db-journal
+
+# Compiled Python files
+*.pyc
+*.pyo
+
+# macOS-specific files
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Windows-specific files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
