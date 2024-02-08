@@ -29,7 +29,7 @@ build/
 *.db-journal
 
 # Compiled Python files
-*.pyc
+
 *.pyo
 
 # macOS-specific files
